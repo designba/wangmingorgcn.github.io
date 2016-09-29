@@ -1,0 +1,29 @@
+/*reset*/
+body,ol,ul,h1,h2,h3,h4,h5,h6,p,th,td,dl,dd,form,fieldset,legend,input,textarea,select{margin:0;padding:0}
+body {font:14px 'Microsoft YaHei',simsun,Arial;color:#333; line-height:26px; font-weight: normal}
+h1,h2,h3,h4,h5,h6{ font-size:14px; font-weight:bold;}
+a{text-decoration:none;color:#000;-webkit-transition: all .2s linear;-moz-transition:all .2s linear;-ms-transition: all .2s linear;transition: all .2s linear;}
+a:hover{ text-decoration:none;color:#cf4d15;}
+em {font-style:normal}
+li {list-style:none}
+img {border:0;vertical-align:middle}
+table {border-collapse:collapse;border-spacing:0}
+.fl{ float:left;_display:inline}
+.fr{ float:right;_display:inline}
+.posr{ position:relative;*zoom:1}
+.layout{ width:1200px; margin:0 auto}
+.posr{ position:relative; zoom:1;}
+.undis{ display:none;}
+.dis{ display:block;}
+.mtb20{margin-top:20px;margin-bottom:20px;}
+.cf:after,.hd:after,.bd:after,.layout:after,.ft:after{content:"";display:table;clear:both}
+.cf,.hd,.bd,.layout,.ft{*zoom:1}
+.mt25{height:25px;}
+
+h1{text-align: center;}
+.wangminglist{border-top:2px solid #c00;padding-top:20px;}
+.wangminglist li{width:18%;float: left;margin:5px 10px;border-bottom:1px solid #eee;}
+
+.page{padding:20px 0;text-align: center;}
+.page a{margin:0px 10px;color:#c00;}
+.page a:hover{color:#000;};
