@@ -27,6 +27,7 @@ h1{text-align: center;}
 .page{padding:20px 0;text-align: center;}
 .page a{margin:0px 10px;color:#c00;}
 .page a:hover{color:#000;};
-@media screen and (min-width:1200px){
+@media screen and (max-width: 1024px) {
+  body{background:blue}
   .wangminglist li{width:90%;float:none}
 }
