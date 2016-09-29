@@ -28,5 +28,5 @@ h1{text-align: center;}
 .page a{margin:0px 10px;color:#c00;}
 .page a:hover{color:#000;};
 @media screen and (max-width: 1024px) {
-  .wangminglist li{width:90%;}
+  .wangminglist li{width:90%;float:none}
 }
