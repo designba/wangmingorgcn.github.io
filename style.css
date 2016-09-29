@@ -22,12 +22,8 @@ table {border-collapse:collapse;border-spacing:0}
 
 h1{text-align: center;}
 .wangminglist{border-top:2px solid #c00;padding-top:20px;}
-.wangminglist li{width:18%;float: left;margin:5px 10px;border-bottom:1px solid #eee;}
+.wangminglist li{margin:5px 10px;border-bottom:1px solid #eee;}
 
 .page{padding:20px 0;text-align: center;}
 .page a{margin:0px 10px;color:#c00;}
 .page a:hover{color:#000;};
-@media screen and (max-width: 1024px) {
-  body{background:blue}
-  .wangminglist li{width:90%;float:none}
-}
